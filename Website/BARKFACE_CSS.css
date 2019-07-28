@@ -1,0 +1,31 @@
+
+
+
+
+h1 {
+	color: maroon;
+
+
+}
+
+}
+
+h2{
+	color: darkblue;
+}
+
+
+h1 {
+	width: 100;
+	/*height: 300;*/
+	background: URL('BARKFACE_Images/BARKFACE_IMG_V1.png');
+	/*background: URL(https://nbcmontana.com/resources/media/a7618c5a-8345-4537-aac1-87b9d0bede1d-large16x9_327ceb034e7f4bdcad4a41cc764bc7ec131019_dog_bark_2.jpg?1528432500315);*/
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	border: 5px solid maroon;
+	}
+
+body {
+	background: #fcf76c;
+}
